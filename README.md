@@ -1,2 +1,2 @@
 # satisfactory-modding
-Repo for Satisfactory mods
+Repo for Satisfactory modding tutorial
